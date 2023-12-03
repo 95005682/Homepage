@@ -3,9 +3,9 @@
 Les bons outils pour des actions efficaces / Right Tools for Efficient Actions
 
 
-9500-5682 QUÉBEC INC. est une société qui fournit des services consultatifs aux entreprises et aux universitaires qui ont besoin d'approches novatrices pour relever leurs défis. Pour un contact d'affaires, veuillez nous envoyer un courriel à info@95005682.ca.​
+9500-5682 Québec INC. est une société qui fournit des services consultatifs aux entreprises et aux universitaires qui ont besoin d'approches novatrices pour relever leurs défis. Pour un contact d'affaires, veuillez nous envoyer un courriel à info@95005682.ca.​
 
-9500-5682 QUÉBEC INC. is a company providing advisory services to companies and scholars who need innovative approaches to face their challenges. For business contact, please send us an Email to info@95005682.ca
+9500-5682 Québec INC. is a company providing advisory services to companies and scholars who need innovative approaches to face their challenges. For business contact, please send us an Email to info@95005682.ca
 
 
 
