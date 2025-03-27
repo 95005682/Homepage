@@ -1,4 +1,5 @@
 # **Bienvenue chez 95005682 Québec inc.**  
+[English Version](/index)
 
 ## **À propos de nous**  
 Nous sommes une équipe de comptables et de chercheurs expérimentés spécialisés en affaires, en sciences et en ingénierie. Notre mission est d’aider les petites entreprises à optimiser leurs opérations grâce à des solutions sur mesure et à des technologies avancées.  
