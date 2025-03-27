@@ -52,4 +52,4 @@ We specialize in **business transformation and automation** for small and medium
 📩 **Email:** [info@95005682.ca](mailto:info@95005682.ca)  
 📅 Schedule a **free consultation** today and let’s discuss how we can help optimize your business!  
 
-[^1]: We do not provide service restricted by the CPA Act (C-48.1).
+[^1]: According to the CPA Act (C-48.1), audit and assurance services are not provided. 
