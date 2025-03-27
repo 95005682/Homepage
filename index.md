@@ -1,29 +1,55 @@
-# 9500-5682 QUÉBEC INC.
-
-Les bons outils pour des actions efficaces / Right Tools for Efficient Actions
-
-
-9500-5682 Québec inc. est une société qui fournit des services consultatifs aux entreprises et aux universitaires qui ont besoin d'approches novatrices pour relever leurs défis. Pour un contact d'affaires, veuillez nous envoyer un courriel à info@95005682.ca.​
-
-9500-5682 Québec inc. is a company providing advisory services to companies and scholars who need innovative approaches to face their challenges. For business contact, please send us an Email to info@95005682.ca
+# Welcome to 9500-5682 Québec inc.
+[La versión en francés.](/indexfr)
 
 
+## **About Us**  
+We are a team of experienced accountants and researchers with expertise in business, science, and engineering. Our mission is to help small businesses optimize their operations through tailored solutions and advanced technology.  
 
-# Nos activités. / What we do.
+With a strong foundation in **business process reengineering** and **activity-based management**, we analyze business structures, communicate effectively with owners, and implement software solutions to enhance efficiency.  
 
-## Gestion quantitative et qualitative / Quantitative and Qualitative Management
+We believe that every small business is unique. That’s why we customize our solutions to fit the specific needs of each client. **An efficient system is built on the convenience of its users**, and we prioritize listening to both business owners and their teams to refine workflows and software implementations.  
 
-Les gestionnaires doivent comprendre les concepts et les chiffres, c'est pourquoi nous sommes là pour les aider.
+## **Our Services**  
+We specialize in **business transformation and automation** for small and medium-sized enterprises. Our services include:  
 
-Managers need to understand both the concepts and the numbers, so we are here to help.
+1. **Business Process Reengineering** – Streamlining workflows to improve efficiency and reduce waste.  
+2. **Activity-Based Management** – Enhancing cost control and performance management.  
+3. **Information System Deployment (ERP & More)** – Selecting and implementing tailored enterprise resource planning systems.  
+4. **Robotic Process Automation (RPA)** – Automating repetitive tasks using software bots.  
+5. **Automation with Robotic Arms** – Integrating hardware robotics into business operations.  
+6. **Customized Solutions for Ad Hoc Challenges** – Addressing unique business problems with innovative strategies.  
 
-## Système ERP sur mesure / Tailored ERP system
 
-Les logiciels prêts à l'emploi dérangent souvent les entrepreneurs brillants qui se concentrent sur des méthodes innovantes pour apporter de la valeur à la communauté. Nous sommes donc là pour fournir le système exact dont vous avez besoin.
+## **Our Team**  
 
-Off-the-shelf software frequently upsets brilliant entrepreneurs who focus on innovative methods to deliver value to the community. So, we are here to deliver the exact system as needed.  
+### **Monica Li**  
+- PhD Candidate in Computer Engineering  
+- Master’s in Computer Science  
+- Bachelor of Business Administration in Accountancy  
+- Expert in Robotics  
+- Former accountant in Price Waterhouse Cooper. 
 
-## Recherches sur les entreprises / Company Researchers
-Les stratèges du monde commercial et les chercheurs du monde universitaire excellent en se concentrant sur leur connaissance du domaine, mais nous sommes là pour les aider avec des outils de recherche plus efficaces.
+### **Lin Ma**  
+- PhD Candidate in Accounting  
+- Master of Philosophy in Accounting  
+- Master of Professional Accounting  
+- Bachelor of Science in Applied Chemistry  
+- Fellow Chartered Certified Accountant
+- Member of Chartered Professional Accountants British Columbia
+- **6+ years of auditing and due diligence experience** across industries including manufacturing, finance, property development, energy, hospitality, and more  
+- 10+ years as an independent business advisor
+- **2 years of business analysis experience**  
+- Expert in business process optimization and **ERP systems**
 
-Strategists in the commercial world and researchers in academia excel by focusing on their domain knowledge, but we are here to help them with more efficient research tools.
+## **Why Choose Us?**  
+✅ **Multidisciplinary Expertise** – Our team’s diverse backgrounds allow us to **understand your business from multiple angles**.  
+✅ **Customized Solutions** – We select and implement the **right tools** to fit your unique needs.  
+✅ **Efficiency-Driven Approach** – Unlike ERP software vendors, we don’t sell systems—we **focus on operational effectiveness**.  
+✅ **Beyond Accounting & Taxation** – While we keep your numbers in mind; we **prioritize your business process and efficiency**.  
+✅ **Professional & Ethical Standards** – We **adhere to strict codes of conduct** and ensure confidentiality[^1]. 
+
+## **Get in Touch**  
+📩 **Email:** [info@95005682.ca](mailto:info@95005682.ca)  
+📅 Schedule a **free consultation** today and let’s discuss how we can help optimize your business!  
+
+[^1]: We do not provide service restricted by the CPA Act (C-48.1).
