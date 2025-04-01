@@ -29,7 +29,7 @@ We specialize in **business transformation and automation** for small and medium
 - Expert in Robotics  
 - Former accountant in Price Waterhouse Cooper. 
 
-### **Lin Ma**  
+### [**Lin Ma**](/LinAcc)
 - PhD Candidate in Accounting  
 - Master of Philosophy in Accounting  
 - Master of Professional Accounting  
@@ -40,8 +40,7 @@ We specialize in **business transformation and automation** for small and medium
 - 10+ years as an independent business advisor
 - **2 years of business analysis experience**  
 - Expert in business process optimization and **ERP systems**
-[Details](/LinAcc)
-
+  
 
 ## **Why Choose Us?**  
 ✅ **Multidisciplinary Expertise** – Our team’s diverse backgrounds allow us to **understand your business from multiple angles**.  
