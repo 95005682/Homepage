@@ -1,5 +1,7 @@
 # Lin Ma
 
+[Version française](https://95005682.ca/linacademie)
+
 📧 [linmaacct@gmail.com](mailto:linmaacct@gmail.com)  
 🔬 [ResearchGate](https://www.researchgate.net/profile/Lin-Ma-50) 
 📝 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4386573)  
@@ -11,7 +13,7 @@
 
 - **PhD Candidate** in Accounting (Thesis submitted).
 - M.Phil. in Accounting & Master of Professional Accounting.
-- Fellow Chartered Certified Accountant
+- Member of CPA (BC) and ACCA. 
 - Experience in Research, Teaching, External Accounting, Internal Accounting, and ERP Implementation. 
 
 ---
@@ -41,7 +43,6 @@
  - Master of Professional Accounting
  *2016* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand  
   
-
  - Advanced Diploma in Accounting and Business
  *2012* [*Association of Chartered Certified Accountants*](https://www.accaglobal.com/us/en.html), UK  
   
@@ -61,7 +62,7 @@
  - Research Assistant & Teaching Assistant [**Auckland University of Technology**](https://www.aut.ac.nz/), Auckland, New Zealand  
 *2016-2022*
 
-### External Accounting
+### Accounting Firms
    - Audit Manager **Asia Pacific (Group) CPAs**, Shenzhen, China  
 *2014–2015*
    - Audit Associate  **Baker Tilly China CPAs**, Shenzhen, China  
