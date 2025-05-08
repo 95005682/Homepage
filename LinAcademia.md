@@ -29,25 +29,25 @@
 
 ### Research
 
-- **Doctor of Philosophy** in Accounting 
+- **Doctor of Philosophy** in Accounting  
 (*Est 2025*) [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand   
   
-- **Master of Philosophy** in Accounting 
+- **Master of Philosophy** in Accounting  
  *2020* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand  
 
-- Postgraduate Certificate in Business
+- Postgraduate Certificate in Business  
  *2018* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand  
 
 ### Professional
 
- - Master of Professional Accounting
+ - Master of Professional Accounting  
  *2016* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand  
   
- - Advanced Diploma in Accounting and Business
+ - Advanced Diploma in Accounting and Business  
  *2012* [*Association of Chartered Certified Accountants*](https://www.accaglobal.com/us/en.html), UK  
   
 ### Other
- -  Bachelor of Science in Applied Chemistry
+ -  Bachelor of Science in Applied Chemistry  
 *2008* [*Shandong University*](https://www.en.sdu.edu.cn/), China  
   
 
