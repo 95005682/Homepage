@@ -59,6 +59,8 @@ We welcome enquiries from researchers, institutions, and firms seeking reliable 
 🌐 **Website**: www.95005682.ca/researchservice  
 📍 **Based in Montréal, QC | Serving clients internationally**
 
+---
+
 [^1]: When the data cannot be shared with a third party, we can develop and test research tools using anonymized sample data, ensuring your confidential datasets remain secure. 
 Our deliverables include fully auditable source code, allowing you to execute analyses independently without sharing sensitive information with us.
 
