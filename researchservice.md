@@ -2,13 +2,13 @@
 
 **Empowering Academic Excellence Through Tailored Research Support**
 
-At **9500-5682 Québec inc.**, we provide high-quality research assistance to academics, doctoral candidates, and institutional research units across all disciplines. Our mission is to enable scholars to achieve rigorous, timely, and publishable research outcomes by offering customised support.
+At **9500-5682 Québec inc.**, we provide high-quality research support services to academics, doctoral candidates, and institutional research units across all disciplines. Our mission is to enable scholars to achieve rigorous, timely, and publishable research outcomes by offering customised support.
 
 ---
 
 ## **Our Services**
 
-We offer a comprehensive suite of research assistance services, including:
+We offer a comprehensive suite of research support services, including:
 
 ### **1. Data Collection & Management**
 - Collection of structured and unstructured data from public and proprietary databases
@@ -53,7 +53,7 @@ We offer a comprehensive suite of research assistance services, including:
 
 ## **Get in Touch**
 
-We welcome enquiries from researchers, institutions, and firms seeking reliable and academically grounded research assistance.
+We welcome enquiries from researchers, institutions, and firms seeking reliable and flexible research support services.
 
 📧 **Email**: info@95005682.ca  
 🌐 **Website**: www.95005682.ca/researchservice  
