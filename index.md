@@ -1,5 +1,5 @@
 # Welcome to 9500-5682 Québec inc.
-[La versión en francés.](/indexfr)
+[La versión en francés.](/indexfr) [Research Support Service](/researchservice)
 
 
 ## **About Us**  
