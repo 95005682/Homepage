@@ -62,7 +62,7 @@ We welcome enquiries from researchers, institutions, and firms seeking reliable 
 [^1]: When the data cannot be shared with a third party, we can develop and test research tools using anonymized sample data, ensuring your confidential datasets remain secure. 
 Our deliverables include fully auditable source code, allowing you to execute analyses independently without sharing sensitive information with us.
 
-[^2]: In compliance with academic ethics codes, services provided to PhD candidates and research students are strictly limited; in cases of ambiguity, we require written approval from the candidate's supervisory team.
+[^2]: We offer complimentary guidance to PhD candidates and research students; however, any substantive research assistance is provided exclusively upon formal request from their supervisory team, ensuring strict adherence to academic ethical standards.
 
 [^3]: We can also deliver end-to-end research solutions—from research design to publication-ready reports—for think tanks, NGOs, and enterprises. 
 In strict adherence to academic ethics, we do not provide such solution for academic purposes.
