@@ -1,6 +1,13 @@
 # **Bienvenue chez 95005682 Québec inc.**  
 [English Version](/index)
 
+## Notre mission
+Notre mission est d’accompagner les petites et moyennes entreprises (PME) dans l’amélioration de leurs processus opérationnels grâce à des solutions adaptées et abordables. 
+
+## Notre vision
+
+Conscients que les pratiques exemplaires et les systèmes de progiciel de gestion intégré (PGI, ou ERP en anglais) sont souvent inaccessibles aux PME en raison de leur complexité et de leurs coûts, nous aidons nos clients à mettre en place des processus sur mesure et à adopter des outils de gestion légers pour relever leurs défis actuels. En vue de leur croissance future, nous préparons nos clients à une transition harmonieuse vers les meilleures pratiques de gestion et les systèmes PGI avancés, en consolidant leurs bases en matière de données et de procédures.
+
 ## **À propos de nous**  
 Nous sommes une équipe de comptables et de chercheurs expérimentés spécialisés en affaires, en sciences et en ingénierie. Notre mission est d’aider les petites entreprises à optimiser leurs opérations grâce à des solutions sur mesure et à des technologies avancées.  
 
