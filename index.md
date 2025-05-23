@@ -1,13 +1,11 @@
 # Welcome to 9500-5682 Québec inc.
 [La versión en francés.](/indexfr) [Research Support Service](/researchservice)
 
+## Our Mission 
+Our mission is to empower small and medium-sized enterprises (SMEs) by enhancing their operational processes with tailored, cost-effective solutions. 
 
-## **About Us**  
-We are a team of experienced accountants and researchers with expertise in business, science, and engineering. Our mission is to help small businesses optimize their operations through tailored solutions and advanced technology.  
-
-With a strong foundation in **business process reengineering** and **activity-based management**, we analyze business structures, communicate effectively with owners, and implement software solutions to enhance efficiency.  
-
-We believe that every small business is unique. That’s why we customize our solutions to fit the specific needs of each client. **An efficient system is built on the convenience of its users**, and we prioritize listening to both business owners and their teams to refine workflows and software implementations.  
+## Our vision
+We recognise that traditional best practices and enterprise resource planning (ERP) systems are often inaccessible to SMEs due to their scale and complexity. In response, we help our clients develop fit-for-purpose processes and adopt lightweight management tools that address their immediate operational challenges. Looking to the future, we prepare our clients for growth by equipping them with the data and procedural foundations necessary to seamlessly transition to industry best practices and advanced ERP systems when the time is right.
 
 ## **Our Services**  
 We specialize in **business transformation and automation** for small and medium-sized enterprises. Our services include:  
@@ -18,7 +16,6 @@ We specialize in **business transformation and automation** for small and medium
 4. **Robotic Process Automation (RPA)** – Automating repetitive tasks using software bots.  
 5. **Automation with Robotic Arms** – Integrating hardware robotics into business operations.  
 6. **Customized Solutions for Ad Hoc Challenges** – Addressing unique business problems with innovative strategies.  
-
 
 ## **Our Team**  
 
