@@ -8,13 +8,6 @@ Notre mission est d’accompagner les petites et moyennes entreprises (PME) dans
 
 Conscients que les pratiques exemplaires et les systèmes de progiciel de gestion intégré (PGI, ou ERP en anglais) sont souvent inaccessibles aux PME en raison de leur complexité et de leurs coûts, nous aidons nos clients à mettre en place des processus sur mesure et à adopter des outils de gestion légers pour relever leurs défis actuels. En vue de leur croissance future, nous préparons nos clients à une transition harmonieuse vers les meilleures pratiques de gestion et les systèmes PGI avancés, en consolidant leurs bases en matière de données et de procédures.
 
-## **À propos de nous**  
-Nous sommes une équipe de comptables et de chercheurs expérimentés spécialisés en affaires, en sciences et en ingénierie. Notre mission est d’aider les petites entreprises à optimiser leurs opérations grâce à des solutions sur mesure et à des technologies avancées.  
-
-Avec une solide expertise en **réingénierie des processus d’affaires** et en **gestion basée sur l’activité**, nous analysons les structures d’entreprise, communiquons efficacement avec les propriétaires et mettons en œuvre des solutions logicielles pour améliorer l’efficacité.  
-
-Nous croyons que chaque petite entreprise est unique. C’est pourquoi nous personnalisons nos solutions en fonction des besoins spécifiques de chaque client. **Un système efficace repose sur la simplicité pour ses utilisateurs**, et nous accordons une grande importance à l’écoute des propriétaires d’entreprise et de leurs équipes afin d’optimiser les flux de travail et la mise en place des logiciels.  
-
 ## **Nos Services**  
 Nous sommes spécialisés dans la **transformation et l’automatisation des entreprises** pour les petites et moyennes entreprises. Nos services incluent :  
 
@@ -24,6 +17,13 @@ Nous sommes spécialisés dans la **transformation et l’automatisation des ent
 4. **Automatisation des processus robotisés (RPA)** – Automatisation des tâches répétitives à l’aide de robots logiciels.  
 5. **Automatisation avec des bras robotiques** – Intégration de la robotique matérielle dans les opérations commerciales.  
 6. **Solutions personnalisées pour des défis spécifiques** – Résolution de problèmes d’affaires uniques grâce à des stratégies innovantes.  
+
+## **Pourquoi nous choisir ?**  
+✅ **Expertise multidisciplinaire** – Nos compétences variées nous permettent de **comprendre votre entreprise sous différents angles**.  
+✅ **Solutions personnalisées** – Nous sélectionnons et mettons en œuvre les **outils adaptés** à vos besoins spécifiques.  
+✅ **Approche axée sur l’efficacité** – Contrairement aux fournisseurs de logiciels ERP, nous ne vendons pas simplement des systèmes, nous **optimisons réellement vos opérations**.  
+✅ **Au-delà de la comptabilité et de la fiscalité** – Nous ne nous concentrons pas uniquement sur les chiffres, nous **mettons l’accent sur vos processus d’affaires et votre efficacité**.  
+✅ **Normes professionnelles et éthiques** – Nous **respectons des codes de conduite stricts** et garantissons la confidentialité[^1].  
 
 ## **Notre Équipe**  
 
@@ -46,12 +46,6 @@ Nous sommes spécialisés dans la **transformation et l’automatisation des ent
 - **2 ans d’expérience en analyse d’affaires**  
 - Experte en optimisation des processus d’affaires et **systèmes ERP**  
 
-## **Pourquoi nous choisir ?**  
-✅ **Expertise multidisciplinaire** – Nos compétences variées nous permettent de **comprendre votre entreprise sous différents angles**.  
-✅ **Solutions personnalisées** – Nous sélectionnons et mettons en œuvre les **outils adaptés** à vos besoins spécifiques.  
-✅ **Approche axée sur l’efficacité** – Contrairement aux fournisseurs de logiciels ERP, nous ne vendons pas simplement des systèmes, nous **optimisons réellement vos opérations**.  
-✅ **Au-delà de la comptabilité et de la fiscalité** – Nous ne nous concentrons pas uniquement sur les chiffres, nous **mettons l’accent sur vos processus d’affaires et votre efficacité**.  
-✅ **Normes professionnelles et éthiques** – Nous **respectons des codes de conduite stricts** et garantissons la confidentialité[^1].  
 
 ## **Contactez-nous**  
 📩 **Courriel :** [info@95005682.ca](mailto:info@95005682.ca)  
