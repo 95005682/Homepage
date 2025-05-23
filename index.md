@@ -17,6 +17,14 @@ We specialize in **business transformation and automation** for small and medium
 5. **Automation with Robotic Arms** – Integrating hardware robotics into business operations.  
 6. **Customized Solutions for Ad Hoc Challenges** – Addressing unique business problems with innovative strategies.  
 
+## **Why Choose Us?**  
+✅ **Multidisciplinary Expertise** – Our team’s diverse backgrounds allow us to **understand your business from multiple angles**.  
+✅ **Customized Solutions** – We select and implement the **right tools** to fit your unique needs.  
+✅ **Efficiency-Driven Approach** – Unlike ERP software vendors, we don’t sell systems—we **focus on operational effectiveness**.  
+✅ **Beyond Accounting & Taxation** – While we keep your numbers in mind; we **prioritize your business process and efficiency**.  
+✅ **Professional & Ethical Standards** – We **adhere to strict codes of conduct** and ensure confidentiality[^1]. 
+
+
 ## **Our Team**  
 
 ### **Monica Li**  
@@ -38,13 +46,6 @@ We specialize in **business transformation and automation** for small and medium
 - **2 years of business analysis experience**  
 - Expert in business process optimization and **ERP systems**
   
-
-## **Why Choose Us?**  
-✅ **Multidisciplinary Expertise** – Our team’s diverse backgrounds allow us to **understand your business from multiple angles**.  
-✅ **Customized Solutions** – We select and implement the **right tools** to fit your unique needs.  
-✅ **Efficiency-Driven Approach** – Unlike ERP software vendors, we don’t sell systems—we **focus on operational effectiveness**.  
-✅ **Beyond Accounting & Taxation** – While we keep your numbers in mind; we **prioritize your business process and efficiency**.  
-✅ **Professional & Ethical Standards** – We **adhere to strict codes of conduct** and ensure confidentiality[^1]. 
 
 ## **Get in Touch**  
 📩 **Email:** [info@95005682.ca](mailto:info@95005682.ca)  
