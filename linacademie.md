@@ -110,12 +110,12 @@
 
 ---
 
-## Affiliations professionnelles
+## Affiliations
 
 - Membre, [Comptables professionnels agréés de la Colombie-Britannique (CPA C.-B.)](https://bccpa.ca), Canada  
 - Membre fellow, [Association of Chartered Certified Accountants (ACCA)](https://www.accaglobal.com/gb/en.html), Royaume-Uni  
 - Membre, [Beta Gamma Sigma](https://www.betagammasigma.org/home), International  
-
+- Member, [American Accounting Association](https://certificates.aaahq.org/f9ae9019-6dc3-491b-9383-ae5ff9443d60), US
 ---
 
 ## Formations complémentaires
