@@ -9,7 +9,7 @@ PhD Candidate @  Auckland University of Technology
 
 ## Membership:
 - Fellow Chartered Certified Accountant
-- Member of CPA British Columbia
+<!--- # - Member of CPA British Columbia --->
 - Beta Gamma Sigma
 
 ## Education
