@@ -40,11 +40,11 @@ Nous sommes spécialisés dans la **transformation et l’automatisation des ent
 - Maîtrise en comptabilité professionnelle  
 - Baccalauréat en sciences, spécialisation chimie appliquée  
 - Fellow Chartered Certified Accountant  
-- Membre des Comptables professionnels agréés de la Colombie-Britannique  
 - **6+ ans d’expérience en audit et diligence raisonnable** dans divers secteurs, notamment la fabrication, la finance, l’immobilier, l’énergie, l’hôtellerie, etc.  
 - **10+ ans en tant que conseillère d’affaires indépendante**  
 - **2 ans d’expérience en analyse d’affaires**  
-- Experte en optimisation des processus d’affaires et **systèmes PGI**  
+- Experte en optimisation des processus d’affaires et **systèmes PGI**
+  <!--- - Membre des Comptables professionnels agréés de la Colombie-Britannique   --->
 
 
 ## **Contactez-nous**  
