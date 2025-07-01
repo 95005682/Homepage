@@ -40,12 +40,11 @@ We specialize in **business transformation and automation** for small and medium
 - Master of Professional Accounting  
 - Bachelor of Science in Applied Chemistry  
 - Fellow Chartered Certified Accountant
-- Member of Chartered Professional Accountants British Columbia
 - **6+ years of auditing and due diligence experience** across industries including manufacturing, finance, property development, energy, hospitality, and more  
 - 10+ years as an independent business advisor
 - **2 years of business analysis experience**  
 - Expert in business process optimization and **ERP systems**
-  
+  <!--- Member of Chartered Professional Accountants British Columbia --->
 
 ## **Get in Touch**  
 📩 **Email:** [info@95005682.ca](mailto:info@95005682.ca)  
