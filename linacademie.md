@@ -10,8 +10,8 @@
 
 ## Profil professionnel
 
-- **Doctorant** en comptabilité (thèse déposée).  
-- M.Phil. (comptabilité) et Maîtrise en comptabilité professionnelle.  
+- **Doctorat** en comptabilité.  
+- Maîtrise en comptabilité professionnelle.  
 - Membre de la CPA BC.  
 - Expérience en recherche, enseignement, comptabilité externe et interne, et implantation de progiciel (systèmes ERP).
 
