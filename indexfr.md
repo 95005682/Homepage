@@ -35,8 +35,7 @@ Nous sommes spécialisés dans la **transformation et l’automatisation des ent
 - Ancienne comptable chez PricewaterhouseCoopers  
 
 ### **Lin Ma**  
-- Candidate au doctorat en comptabilité  
-- Maîtrise en philosophie de la comptabilité  
+- Doctorat en comptabilité  
 - Maîtrise en comptabilité professionnelle  
 - Baccalauréat en sciences, spécialisation chimie appliquée  
 - Fellow Chartered Certified Accountant  
