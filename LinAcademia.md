@@ -30,7 +30,7 @@
 ### Research
 
 - **Doctor of Philosophy** in Accounting  
-(*Est 2025*) [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand   
+ *2025* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand   
   
 - **Master of Philosophy** in Accounting  
  *2020* [*Auckland University of Technology*](https://www.aut.ac.nz/), New Zealand  
