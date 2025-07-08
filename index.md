@@ -35,8 +35,7 @@ We specialize in **business transformation and automation** for small and medium
 - Former accountant in Price Waterhouse Cooper. 
 
 ### [**Lin Ma**](/LinAcc)
-- PhD Candidate in Accounting  
-- Master of Philosophy in Accounting  
+- Doctor of Philosophy in Accounting
 - Master of Professional Accounting  
 - Bachelor of Science in Applied Chemistry  
 - Fellow Chartered Certified Accountant
