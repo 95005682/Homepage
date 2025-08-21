@@ -38,16 +38,16 @@ Nous sommes spécialisés dans la **transformation et l’automatisation des ent
 - Doctorat en comptabilité  
 - Maîtrise en comptabilité professionnelle  
 - Baccalauréat en sciences, spécialisation chimie appliquée  
-- Fellow Chartered Certified Accountant  
+- Fellow Chartered Certified Accountant
+- Comptable professionnel agréé de la Colombie-Britannique [^2]
 - **6+ ans d’expérience en audit et diligence raisonnable** dans divers secteurs, notamment la fabrication, la finance, l’immobilier, l’énergie, l’hôtellerie, etc.  
 - **10+ ans en tant que conseillère d’affaires indépendante**  
 - **2 ans d’expérience en analyse d’affaires**  
-- Experte en optimisation des processus d’affaires et **systèmes PGI**
-  <!--- - Membre des Comptables professionnels agréés de la Colombie-Britannique   --->
-
+- Experte en optimisation des processus d’affaires et progiciel. 
 
 ## **Contactez-nous**  
 📩 **Courriel :** [info@95005682.ca](mailto:info@95005682.ca)  
 📅 Planifiez une **consultation gratuite** dès aujourd’hui et discutons de la façon dont nous pouvons optimiser votre entreprise !  
 
 [^1]: Nous ne fournissons pas de services réglementés par la Loi sur les CPA (C-48.1).  
+[^2]: Pour les lecteurs du Québec : le titre «Comptable professionnel agréé» est fourni uniquement à titre informatif et n’implique aucune reconnaissance en vertu de la loi du Québec (Loi sur les CPA, C-48.1).
