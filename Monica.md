@@ -25,8 +25,8 @@ Advisor: [Chiu Peng-sheng](https://sjtu.academia.edu/PengshengChiu/CurriculumVit
 ---
 
 ## Awards
-- **CRIAQ Next Generation of Women in Aerospace** (2023, 2024)  
-- **Vanier Canada Graduate Scholarship (NSERC)**, ×3 years  
+- **CRIAQ Next Generation of Women in Aerospace**
+- **Vanier Canada Graduate Scholarship (NSERC)**
 - Bishop’s University – Single nomination for Arbour Foundation Scholarship  
 - Bishop’s University – International Student Entrance Grant  
 - Faculty Exchange Sponsorships  
