@@ -29,24 +29,25 @@ We specialize in **business transformation and automation** for small and medium
 
 ### **Monica Li**  
 - PhD Candidate in Computer Engineering  
-- Master’s in Computer Science  
-- Bachelor of Business Administration in Accountancy  
-- Expert in Robotics  
+- MSc in Computer Science  
+- BBA in Accountancy  
+- Expert in Robotics and computer vision.
 - Former accountant in Price Waterhouse Cooper. 
 
 ### [**Lin Ma**](/LinAcc)
-- Doctor of Philosophy in Accounting
+- PhD in Accounting
 - Master of Professional Accounting  
-- Bachelor of Science in Applied Chemistry  
+- BSc in Applied Chemistry
+- Chartered Professional Accountant (British Columbia) [^2]
 - Fellow Chartered Certified Accountant
 - **6+ years of auditing and due diligence experience** across industries including manufacturing, finance, property development, energy, hospitality, and more  
 - 10+ years as an independent business advisor
 - **2 years of business analysis experience**  
 - Expert in business process optimization and **ERP systems**
-  <!--- Member of Chartered Professional Accountants British Columbia --->
 
 ## **Get in Touch**  
 📩 **Email:** [info@95005682.ca](mailto:info@95005682.ca)  
 📅 Schedule a **free consultation** today and let’s discuss how we can help optimize your business!  
 
 [^1]: According to the CPA Act (C-48.1), audit and assurance services are not provided. 
+[^2]: For readers in Québec: the designation ‘Chartered Professional Accountant’ is provided for informational purposes only and does not imply recognition under Québec law (CPA Act C-48.1).
