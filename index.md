@@ -27,7 +27,7 @@ We specialize in **business transformation and automation** for small and medium
 
 ## **Our Team**  
 
-### **Monica Li**  
+### [**Monica Li**](/Monica)  
 - PhD Candidate in Computer Engineering  
 - MSc in Computer Science  
 - BBA in Accountancy  
