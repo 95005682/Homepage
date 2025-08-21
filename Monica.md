@@ -19,7 +19,7 @@ Advisor: [Chiu Peng-sheng](https://sjtu.academia.edu/PengshengChiu/CurriculumVit
 - Established a dataset for *Ba County Archives* (GRF #14402414)  
 
 **B.B.A. in Accountancy** — Hong Kong Polytechnic University  
-- Mass data collection from SEC database for [Simon Fung Yu Kit](https://www.deakin.edu.au/about-deakin/people/yu-kit-fung)  
+- Mass data collection from SEC database for [Simon Fung Yu Kit](https://experts.deakin.edu.au/39773-simon-fung)  
 - Exchange: Anderson School of Management (UNM) & National Taiwan University  
 
 ---
