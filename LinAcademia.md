@@ -11,7 +11,7 @@
 
 ## Professional Profile
 
-- **PhD** in Accounting (Thesis submitted).
+- **PhD** in Accounting.
 - M.Phil. in Accounting & Master of Professional Accounting.
 - Member of CPA (BC) and ACCA. 
 - Experience in Research, Teaching, External Accounting, Internal Accounting, and ERP Implementation. 
