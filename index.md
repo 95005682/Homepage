@@ -32,7 +32,7 @@ We specialize in **business transformation and automation** for small and medium
 - MSc in Computer Science  
 - BBA in Accountancy  
 - Expert in Robotics and computer vision.
-- Former accountant in Price Waterhouse Cooper. 
+- Former accountant in PricewaterhouseCoopers. 
 
 ### [**Lin Ma**](/LinAcc)
 - PhD in Accounting
