@@ -196,9 +196,10 @@ Before making the move, seek advice from an expert who understands:
   - **business operations**, and,
   - **business strategy**.
 
-These areas are interconnected, and making a decision without considering all of them can create hidden risks. </div>
+These areas are interconnected, and making a decision without considering all of them can create hidden risks. 
 
 We offer **free diagnosis sessions for SMEs** to help you evaluate your current setup and decide the best path forward—whether that means optimizing your SaaS or preparing for your own ERP.
 
 Because the right system should work for your business, not the other way around.
 </details>
+</div>
