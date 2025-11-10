@@ -76,8 +76,8 @@ Une approche progressive reste possible : commencer avec quelques modules standa
 <summary>🇨🇦 English: What Is an Open-Source ERP System and How It Fits in Your Business Strategy  </summary>
 
 <div markdown="1">
-  
-  # What Is an Open-Source ERP System and How It Fits in Your Business Strategy  
+
+# What Is an Open-Source ERP System and How It Fits in Your Business Strategy  
 ### by Lin, PhD, FCCA  
 
 ## Summary  
