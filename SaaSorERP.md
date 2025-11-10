@@ -1,6 +1,8 @@
-# 🇨🇦 Est-ce le bon moment pour passer à un vrai PGI (système ERP) ?
+<details>
+<summary>🇨🇦 française: Est-ce le bon moment pour passer à un vrai PGI (système ERP) ? </summary>
+#  Est-ce le bon moment pour passer à un vrai PGI (système ERP) ?
 
----
+  ---
 
 ## **Quand le “simple” commence à coûter trop cher**
 
@@ -75,7 +77,7 @@ Et surtout, un ERP grandit avec votre entreprise. Vous n’aurez plus à changer
 
 ---
 
-## **Conclusion et invitation**
+## **Conclusion**
 
 Passer du SaaS à un ERP n’est pas qu’une question de technologie, c’est une **décision stratégique**.  
 Quand les coûts, les limites fonctionnelles ou le manque de contrôle deviennent des obstacles, il faut se demander si le logiciel actuel sert encore réellement vos besoins.
@@ -95,9 +97,10 @@ Parce que le bon système, c’est celui qui travaille **pour vous**, pas contre
 
 ---
 
----
+</details>
 
-# 🇨🇦 Is It Time to Graduate from SaaS Accounting Software?
+<details>
+<summary> 🇨🇦 English:  Is It Time to Graduate from SaaS Accounting Software? </summary>
 
 ---
 
@@ -174,13 +177,21 @@ And most importantly, a well-deployed ERP grows with your company. You don’t n
 
 ---
 
-## **Conclusion and Call to Action**
+## **Conclusion**
 
 Choosing between SaaS-based systems and ERP systems is not about technology—it’s about strategy.  
 When your business starts feeling constrained by cost, functionality, or control, that’s usually a sign you’ve outgrown your SaaS platform.
 
-Before making the move, seek advice from an expert who understands **information systems**, **accounting and tax**, **internal control**, **business operations**, and **business strategy**. These areas are interconnected, and making a decision without considering all of them can create hidden risks.
+Before making the move, seek advice from an expert who understands:
+  - **information systems**,
+  - **accounting and tax**,
+  - **internal control**,
+  - **business operations**, and,
+  - **business strategy**.
 
-We offer **free diagnosis sessions for SMEs** to help you evaluate your current setup and decide the best path forward—whether that means optimizing your SaaS or preparing for your own ERP.  
+These areas are interconnected, and making a decision without considering all of them can create hidden risks.
+
+We offer **free diagnosis sessions for SMEs** to help you evaluate your current setup and decide the best path forward—whether that means optimizing your SaaS or preparing for your own ERP.
 
 Because the right system should work for your business, not the other way around.
+</details>
