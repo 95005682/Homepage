@@ -106,7 +106,7 @@ Parce que le bon système, c’est celui qui travaille **pour vous**, pas contre
 
 <details>
   
-<summary> 🇨🇦 English:  Is It Time to Graduate from SaaS Accounting Software? </summary>
+<summary>🇨🇦 English:  Is It Time to Graduate from SaaS Accounting Software? </summary>
 <div markdown="1">
 
 # Is It Time to Graduate from SaaS Accounting Software?  
