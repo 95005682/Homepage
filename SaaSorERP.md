@@ -24,6 +24,7 @@ Cet article vous aidera à comprendre **quand** et **pourquoi** passer d’un si
 
 - **PGI (Progiciel de gestion intégré) ou ERP (Enterprise Resource Planning)**, c’est un système plus complet qui relie toutes les opérations de l’entreprise : comptabilité, ventes, inventaire, achats, production et même ressources humaines.  
   Quand on parle d’un ERP “auto-hébergé”, ça veut dire que le système est installé sur vos propres serveurs, vous appartenant, et qu’il peut être entièrement personnalisé à votre réalité.
+Les PGI traditionnels peuvent être très coûteux, mais un PGI open source peut vous coûter aussi peu que 1 000 $ par an au total, bien moins cher que les systèmes SaaS comptant de nombreux utilisateurs.
 
 Beaucoup de PME commencent avec un SaaS parce que c’est simple et peu coûteux. Mais un jour, souvent quand plusieurs départements ou filiales sont impliqués, ces logiciels atteignent leur plafond.
 
