@@ -1,7 +1,7 @@
 <details>
   
 <summary>🇨🇦 française: Est-ce le bon moment pour passer à un vrai PGI (système ERP) ? </summary>
-  
+  <div markdown="1">
 #  Est-ce le bon moment pour passer à un vrai PGI (système ERP) ?
 
   ---
@@ -98,13 +98,13 @@ Nous offrons **des séances de diagnostic gratuites pour les PME**. Elles permet
 Parce que le bon système, c’est celui qui travaille **pour vous**, pas contre vous.
 
 ---
-
+</div>
 </details>
 
 <details>
   
 <summary> 🇨🇦 English:  Is It Time to Graduate from SaaS Accounting Software? </summary>
-
+<div markdown="1">
 ---
 
 ## **When “Simple” Starts to Cost More Than It Saves**
@@ -192,7 +192,7 @@ Before making the move, seek advice from an expert who understands:
   - **business operations**, and,
   - **business strategy**.
 
-These areas are interconnected, and making a decision without considering all of them can create hidden risks.
+These areas are interconnected, and making a decision without considering all of them can create hidden risks. </div>
 
 We offer **free diagnosis sessions for SMEs** to help you evaluate your current setup and decide the best path forward—whether that means optimizing your SaaS or preparing for your own ERP.
 
