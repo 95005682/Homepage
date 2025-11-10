@@ -1,7 +1,9 @@
 <details>
   
 <summary>🇨🇦 française: Est-ce le bon moment pour passer à un vrai PGI (système ERP) ? </summary>
-  <div markdown="1">
+
+<div markdown="1">
+    
 #  Est-ce le bon moment pour passer à un vrai PGI (système ERP) ?
 
   ---
@@ -105,6 +107,8 @@ Parce que le bon système, c’est celui qui travaille **pour vous**, pas contre
   
 <summary> 🇨🇦 English:  Is It Time to Graduate from SaaS Accounting Software? </summary>
 <div markdown="1">
+
+# Is It Time to Graduate from SaaS Accounting Software?  
 ---
 
 ## **When “Simple” Starts to Cost More Than It Saves**
